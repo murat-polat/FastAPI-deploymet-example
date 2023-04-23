@@ -11,8 +11,8 @@
 - Caddy server and reverse proxy configuration for HTTPS/SSL
 
 ### Linux VM :
-    You can order a Linux VM from the Digital Ocean, Contabo, Vultr, Linode etc. For this tutorial, we choose an Debian instance on Contabo.
-    After  first login, run:
+You can order a Linux VM from the Digital Ocean, Contabo, Vultr, Linode etc. For this tutorial, we choose an Debian instance on Contabo.
+After  first login, run:
 
 `sudo apt-get update`
 
