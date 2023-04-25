@@ -1,4 +1,4 @@
-### This  is a simple example  for deploying a FastAPI application, to production environment. And probably the easiest way to run an application with scure SSL/HTTPS, and with Caddy server magic. So, you can focus just your application and code, not deployment process :)
+### This  is a simple example  for deploying a FastAPI application, to production environment. And probably the easiest way to run an application with secure SSL/HTTPS, and with Caddy server magic. So, you can focus just your application and code, not deployment process :)
 
 
 
