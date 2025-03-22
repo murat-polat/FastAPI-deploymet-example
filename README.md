@@ -24,7 +24,7 @@ It's optional add a new user, or continue with "root" user. But we choose and re
 
 `sudo adduser <newuser>`
 
-`sudo usermod -aG  <newuser>`
+`sudo usermod -aG sudo <newuser>`
 
 Change root user to new user
 
